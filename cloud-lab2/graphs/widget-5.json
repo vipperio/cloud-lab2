@@ -1,0 +1,1 @@
+{"metrics":[["AWS/ApplicationELB","HealthyHostCount","TargetGroup","targetgroup/cloud-lab2-tg/6286905a4a58b332","LoadBalancer","app/cloud-lab2-alb/f21c64cf7087dd80"]],"period":60,"region":"eu-central-1","stat":"Average","title":"5. Healthy targets","width":1000,"height":400,"start":"2026-11-12T12:40:00Z","end":"2026-11-12T13:05:00Z"}

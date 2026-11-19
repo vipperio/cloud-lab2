@@ -1,0 +1,6 @@
+aws_region    = "eu-central-1"
+project_name  = "cloud-lab2"
+min_capacity  = 1
+max_capacity  = 4
+cpu_target    = 60
+alert_email   = "your-email@example.com"

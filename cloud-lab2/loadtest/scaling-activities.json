@@ -1,0 +1,40 @@
+{
+    "ScalingActivities": [
+        {
+            "ActivityId": "58b87b6b-4c98-4d4b-8763-35b5bfa44eed",
+            "ServiceNamespace": "ecs",
+            "ResourceId": "service/cloud-lab2-cluster/cloud-lab2-service",
+            "ScalableDimension": "ecs:service:DesiredCount",
+            "Description": "Setting desired count to 4.",
+            "Cause": "monitor alarm TargetTracking-service/cloud-lab2-cluster/cloud-lab2-service-AlarmHigh-adc6cf43-5d20-4582-98cc-3ae2fd6f6b8f in state ALARM triggered policy cloud-lab2-cpu-target-tracking",
+            "StartTime": "2026-11-20T00:02:38.469000+02:00",
+            "EndTime": "2026-11-20T00:03:13.669000+02:00",
+            "StatusCode": "Successful",
+            "StatusMessage": "Successfully set desired count to 4. Change successfully fulfilled by ecs."
+        },
+        {
+            "ActivityId": "9192f056-f775-4489-9e07-be1f5ced132f",
+            "ServiceNamespace": "ecs",
+            "ResourceId": "service/cloud-lab2-cluster/cloud-lab2-service",
+            "ScalableDimension": "ecs:service:DesiredCount",
+            "Description": "Setting desired count to 3.",
+            "Cause": "monitor alarm TargetTracking-service/cloud-lab2-cluster/cloud-lab2-service-AlarmHigh-adc6cf43-5d20-4582-98cc-3ae2fd6f6b8f in state ALARM triggered policy cloud-lab2-cpu-target-tracking",
+            "StartTime": "2026-11-19T23:54:38.456000+02:00",
+            "EndTime": "2026-11-19T23:55:14.652000+02:00",
+            "StatusCode": "Successful",
+            "StatusMessage": "Successfully set desired count to 3. Change successfully fulfilled by ecs."
+        },
+        {
+            "ActivityId": "bb455e3c-98bc-449c-ad13-0bcc81b7c720",
+            "ServiceNamespace": "ecs",
+            "ResourceId": "service/cloud-lab2-cluster/cloud-lab2-service",
+            "ScalableDimension": "ecs:service:DesiredCount",
+            "Description": "Setting desired count to 2.",
+            "Cause": "monitor alarm TargetTracking-service/cloud-lab2-cluster/cloud-lab2-service-AlarmHigh-adc6cf43-5d20-4582-98cc-3ae2fd6f6b8f in state ALARM triggered policy cloud-lab2-cpu-target-tracking",
+            "StartTime": "2026-11-19T23:48:38.466000+02:00",
+            "EndTime": "2026-11-19T23:49:45.798000+02:00",
+            "StatusCode": "Successful",
+            "StatusMessage": "Successfully set desired count to 2. Change successfully fulfilled by ecs."
+        }
+    ]
+}

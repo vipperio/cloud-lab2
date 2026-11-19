@@ -1,0 +1,10 @@
+.git
+.terraform
+**/.terraform
+**/*.tfstate*
+**/*.tfvars
+__pycache__
+.venv
+docs
+k6
+scripts

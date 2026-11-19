@@ -1,0 +1,1 @@
+{"metrics":[["AWS/ECS","CPUUtilization","ClusterName","cloud-lab2-cluster","ServiceName","cloud-lab2-service"]],"period":60,"region":"eu-central-1","stat":"Average","title":"1. ECS CPU (%)","yAxis":{"left":{"max":100,"min":0}},"width":1000,"height":400,"start":"2026-11-12T12:40:00Z","end":"2026-11-12T13:05:00Z"}

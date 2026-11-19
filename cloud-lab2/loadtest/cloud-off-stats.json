@@ -1,0 +1,9 @@
+{
+    "cache_hits":  0,
+    "cache_misses":  0,
+    "cache_bypasses":  12628,
+    "db_queries":  12628,
+    "hit_rate_percent":  0,
+    "cache_ttl_seconds":  60,
+    "remaining_ttl_seconds":  -2
+}

@@ -1,0 +1,313 @@
+{
+    "Label": "CacheMisses",
+    "Datapoints": [
+        {
+            "Timestamp": "2026-11-19T23:42:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:00:00+02:00",
+            "Average": 240.0,
+            "Sum": 240.0,
+            "Maximum": 240.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:43:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:01:00+02:00",
+            "Average": 267.0,
+            "Sum": 267.0,
+            "Maximum": 267.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:44:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:02:00+02:00",
+            "Average": 229.0,
+            "Sum": 229.0,
+            "Maximum": 229.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:45:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:03:00+02:00",
+            "Average": 224.0,
+            "Sum": 224.0,
+            "Maximum": 224.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:28:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:55:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:38:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:56:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:39:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:57:00+02:00",
+            "Average": 221.0,
+            "Sum": 221.0,
+            "Maximum": 221.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:40:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:58:00+02:00",
+            "Average": 314.0,
+            "Sum": 314.0,
+            "Maximum": 314.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:41:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:59:00+02:00",
+            "Average": 274.0,
+            "Sum": 274.0,
+            "Maximum": 274.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:33:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:51:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:09:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:34:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:52:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:10:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:35:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:53:00+02:00",
+            "Average": 1.0,
+            "Sum": 1.0,
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:11:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:36:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:54:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:37:00+02:00",
+            "Average": 3.0,
+            "Sum": 3.0,
+            "Maximum": 3.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:46:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:04:00+02:00",
+            "Average": 305.0,
+            "Sum": 305.0,
+            "Maximum": 305.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:29:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:47:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:05:00+02:00",
+            "Average": 260.0,
+            "Sum": 260.0,
+            "Maximum": 260.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:30:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:48:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:06:00+02:00",
+            "Average": 186.0,
+            "Sum": 186.0,
+            "Maximum": 186.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:31:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:49:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:07:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:32:00+02:00",
+            "Average": 1.0,
+            "Sum": 1.0,
+            "Maximum": 1.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-19T23:50:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        },
+        {
+            "Timestamp": "2026-11-20T00:08:00+02:00",
+            "Average": 0.0,
+            "Sum": 0.0,
+            "Maximum": 0.0,
+            "Unit": "Count"
+        }
+    ]
+}
